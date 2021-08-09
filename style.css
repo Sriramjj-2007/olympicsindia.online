@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(252, 226, 194);
+}
+
+.head {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 4rem;
+    color: rgb(255, 129, 129);
+    font-weight: 700;
+}
+
+.center {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.bar {
+    background-color: rgb(95, 95, 184);
+    border-radius: 10px;
+}
+
+.gold {
+    background-color: rgb(118, 96, 143);
+    border-radius: 10px;
+}
+
+.silver {
+    background-color: rgb(108, 121, 113);
+    border-radius: 10px;
+    margin-left: 4px;
+}
+
+.bronse {
+    background-color: rgb(67, 111, 112);
+    border-radius: 10px;
+    margin-left: 4px;
+}
+
+button {
+    border: 2px;
+    padding: 0px;
+    background-color: transparent;
+}
+
+span {
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+img {
+    width: 150px;
+}
